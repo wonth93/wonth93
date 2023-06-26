@@ -1,6 +1,5 @@
-### ✨ Martin Wong ✨
-
-## Full-Stack Developer 💻
+<h2 align="center">✨ Martin Wong ✨</h2>
+<h2 align="center">Full-Stack Developer 💻</h2>
 
 <!--
 **wonth93/wonth93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
