@@ -26,7 +26,7 @@ wongth93@gmail.com
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40">
       <br>JavaScript
     </td>
-    <td style="text-align: center">
+    <td style="text-align: center" height="108" width="108">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1920px-Ruby_logo.svg.png" width="40">
       <br>Ruby
     </td>
