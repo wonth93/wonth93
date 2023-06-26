@@ -11,7 +11,7 @@
 
 ## 📫 Contact me
 
-<a href="https://www.linkedin.com/in/wonth93/" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/wonth93/" rel="noopener" target="_blank">LinkedIn</a>
 
 <a href="https://resume.creddle.io/resume/432kimkd6ff" target="_blank">Resume</a>
 
