@@ -9,6 +9,12 @@
 * Just completed my [Mortgage Payment Calculator](https://github.com/wonth93/Mortgage-Calculator) project 💸
 * Once a gooner always a gooner ⚽
 
+## 📫 Contact me
+[LinkedIn](https://www.linkedin.com/in/wonth93/)
+
+[Resume](https://resume.creddle.io/resume/432kimkd6ff)
+
+wongth93@gmail.com
 <!--
 **wonth93/wonth93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
