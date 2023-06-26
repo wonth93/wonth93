@@ -1,5 +1,13 @@
-<h2 align="center">✨ Martin Wong ✨</h2>
+<h2 align="center">Martin Wong</h2>
 <h2 align="center">Full-Stack Developer 💻</h2>
+
+## 💬 About me 
+* Just completed a Diploma in Full-Stack Web Development 🎓
+* Interested in building apps 🔨
+* Love science 🧪
+* Building an AI app 😝
+* Just completed my [Mortgage Payment Calculator](https://github.com/wonth93/Mortgage-Calculator) project 💸
+* Once a gooner always a gooner ⚽
 
 <!--
 **wonth93/wonth93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
