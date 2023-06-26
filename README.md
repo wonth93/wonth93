@@ -5,7 +5,7 @@
 * Just completed a Diploma in Full-Stack Web Development 🎓
 * Interested in building apps 🔨
 * Love science 🧪
-* Building an AI app 😝
+* Building an AI app recently 😝
 * Just completed my [Mortgage Payment Calculator](https://github.com/wonth93/Mortgage-Calculator) project 💸
 * Once a gooner always a gooner ⚽
 
