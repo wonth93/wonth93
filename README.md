@@ -10,9 +10,10 @@
 * Once a gooner always a gooner ⚽
 
 ## 📫 Contact me
-[LinkedIn](https://www.linkedin.com/in/wonth93/)
 
-[Resume](https://resume.creddle.io/resume/432kimkd6ff)
+<a href="https://www.linkedin.com/in/wonth93/" target="_blank">LinkedIn</a>
+
+<a href="https://resume.creddle.io/resume/432kimkd6ff" target="_blank">Resume</a>
 
 wongth93@gmail.com
 <!--
