@@ -121,6 +121,10 @@ wongth93@gmail.com
   </tr>
 
 </table>
+
+## ⚡ My Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonth93&size_weight=0.5&count_weight=0.5)
 <!--
 **wonth93/wonth93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
