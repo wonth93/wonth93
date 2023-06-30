@@ -5,7 +5,7 @@
 * Just completed a Diploma in Full-Stack Web Development 🎓
 * Interested in building apps 🔨
 * Love science 🧪
-* ***Currently*** building a chatbot with the ChatGPT, Dall-E and GPT-4 APIs 😝
+* ***Currently*** building a mobile app with **Firebase** 😝
 * Just completed my [Mortgage Payment Calculator](https://github.com/wonth93/Mortgage-Calculator) project 💸
 * Once a gooner always a gooner ⚽
 
