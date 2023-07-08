@@ -1,4 +1,4 @@
-## Hello, World 💻
+# Hello, World! 💻
 I am Martin, a Full-Stack Developer living in Vancouver, BC.
 
 ## 💬 About me 
@@ -8,6 +8,12 @@ I am Martin, a Full-Stack Developer living in Vancouver, BC.
 * ***Currently*** building a [mobile app](https://github.com/wonth93/shopping-cart) with **Firebase** 😝
 * Just completed my [Mortgage Payment Calculator](https://github.com/wonth93/Mortgage-Calculator) project 💸
 * Once a gooner always a gooner ⚽
+
+## 🌱 Projects
+* [Mortgage Payment Calculator](https://github.com/wonth93/Mortgage-Calculator), a web app for calculating what the mortgage payment could be.
+* [Wayfarer](https://github.com/wonth93/wayfarer), a web app for planning and keeping track of tips.
+* [Trading](https://github.com/wonth93/BuySell), a min online marketplace for car buyers and sellers.
+* [Mario-Style Game](https://github.com/wonth93/Python-Mario), a Mario-style game having collisions, gravity, different animated characters, adventure, and much much more!
 
 ## 📫 Contact me
 
