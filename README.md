@@ -1,5 +1,5 @@
-<h2 align="center">Martin Wong</h2>
-<h2 align="center">Full-Stack Developer 💻</h2>
+## Hello, World 💻
+I am Martin, a Full-Stack Developer living in Vancouver, BC.
 
 ## 💬 About me 
 * Just completed a Diploma in Full-Stack Web Development 🎓
