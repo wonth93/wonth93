@@ -1,7 +1,7 @@
 # Hello, World! 💻
 I am Martin, a Full-Stack Developer living in Vancouver, BC.
 
-## 💬 About me 
+## 💬 About Me
 * Just completed a Diploma in Full-Stack Web Development 🎓
 * Interested in building apps 🔨
 * Love science 🧪
@@ -15,7 +15,7 @@ I am Martin, a Full-Stack Developer living in Vancouver, BC.
 * [Trading](https://github.com/wonth93/BuySell), a min online marketplace for car buyers and sellers.
 * [Mario-Style Game](https://github.com/wonth93/Python-Mario), a Mario-style game having collisions, gravity, different animated characters, and adventure!
 
-## 📫 Contact me
+## 📫 Contact Me
 
 [LinkedIn](https://www.linkedin.com/in/wonth93/)
 
